@@ -1,0 +1,1 @@
+{"root":["./src/constants.ts","./src/icons.ts","./src/index.ts","./src/render.ts","./src/toast.ts","./src/types.ts","./src/sileo.vue","./src/toaster.vue","./demo/main.ts","./demo/app.vue"],"version":"5.7.3"}
